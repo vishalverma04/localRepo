@@ -7,3 +7,9 @@ h1{
     background-color: blueviolet;
     border-radius: 20px;
 }
+.circle{
+    height: 100px;
+    width: 100px;
+    background-color: cadetblue;
+    border-radius: 100px;
+}
